@@ -8,3 +8,16 @@ The goal of this project is to build a web application that allow users to find 
 Frontend: HTML, CSS, JavaScript (React or similar framework)
 Version Control: Git and GitHub
 Design Tools: Figma for UI/UX design
+
+
+# UI/UX Design Planning
+  color styles - #34967C
+               - #222222
+               - #FFA800
+               - #929292
+
+  Topography
+  Font family- Quicksand 
+  Font Weight - 500
+              - 600
+  
